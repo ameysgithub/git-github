@@ -92,4 +92,6 @@ Steps to start with:
     1. git rebase -i "base commit hashValue"
     1. change the pick string to s, in the interactive environment
 
+1. adding a git repo inside another repo, nested repos - git submodule add "inside-repo-URL" nested-filename
+
 Git CheatSheet by GitHub Education [here](https://education.github.com/git-cheat-sheet-education.pdf "Git CheatSheet")
